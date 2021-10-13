@@ -25,7 +25,7 @@
 
  Within the **tests** package, a number of sample puzzles and grids are provided. These are defined as Enum.
 
-code should run using the following command:
+code should run using the following command:<br>
 java A2main <TEST|SOLVE|HINT> <test-set|problem-to-solve|problem-get-hints-for>
-For example, to test all of parts 1 to 3 on the staff tests you would run
+For example, to test all of parts 1 to 3 on the staff tests you would run<br>
 java A2main TEST StaffAll
