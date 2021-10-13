@@ -1,0 +1,3 @@
+javac -cp antlr-runtime-4.8.jar;logicng-2.0.2.jar; A2main.java
+java -cp antlr-runtime-4.8.jar;logicng-2.0.2.jar; A2main.java TEST StaffAll
+java -cp antlr-runtime-4.8.jar;logicng-2.0.2.jar; A2main.java HINT ABC1
