@@ -1,4 +1,4 @@
-# Easy As ABC Puzzle Rules with First Order Logic
+# Easy As ABC Puzzle Rules with Propositional Logic
 ## Intro
  Expanded implementation of CS5011 P2 in University of St Andrews. This project is research-led. some parts are what the constraint programming research group are actively researching at St Andrews, and they don’t have all the answers about how to do it.
 
